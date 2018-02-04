@@ -1,14 +1,13 @@
 b=base/	
 p=test1
 newProj:
-	mkdir $b$p
+	mkdir -p $b$p
 	cd $b$p;nimble init $p
 
 Nim: # at first
 	bash init/nim_nighty.sh
 	bash init/make.profile.sh
 	#bash init/emacs25_space.sh
-	mkdir -p $b
 run:
 	cd $b$p;nimble build
 	###### run $b$p #####
@@ -18,6 +17,6 @@ em: #if you use spacemacs on ubuntu
 
 ex=./Nim/examples
 cpProj: #it depends on ${ex} folder.
-	mkdir $b$o
+	mkdir -p $b$p
 	cd $b$p;nimble init $p
 	cp ${ex}/$p.nim $b$p/$p.nim
