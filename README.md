@@ -1,4 +1,5 @@
 # nim nighty build for newcomers 
+ - cf. https://github.com/nim-lang/Nim#compiling
  - It is for a newcomer like me :) .
  - Nim with 'spacemacs' is a good combination for me.
 
