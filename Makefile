@@ -1,4 +1,4 @@
-b=base/	
+b=base/
 p=test1
 newProj:
 	mkdir -p $b$p
