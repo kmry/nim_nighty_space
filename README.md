@@ -1,5 +1,6 @@
 # nim nighty build for newcomers 
- -  It is for a newcomer like me :) .
+ - It is for a newcomer like me :) .
+ - Nim with spacemacs is a good combination for me.
 
 ## to start nim nighty build within avhour:
 ```
