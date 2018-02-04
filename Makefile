@@ -1,5 +1,5 @@
 b=base/	
-p=uint_byte
+p=test1
 newProj:
 	mkdir $b$p
 	cd $b$p;nimble init $p
