@@ -6,7 +6,7 @@ newProj:
 
 Nim: # at first
 	bash init/nim_nighty.sh
-	bash init/make_profile.sh
+	bash init/make.profile.sh
 	#bash init/emacs25_space.sh
 	mkdir -p $b
 run:
