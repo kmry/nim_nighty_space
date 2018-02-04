@@ -1,5 +1,5 @@
 # nim nighty build for newcomers 
- - # It is for a newcomer like me :) .
+ -  It is for a newcomer like me :) .
 
 ## to start nim nighty build within avhour:
 ```
