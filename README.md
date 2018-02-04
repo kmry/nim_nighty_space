@@ -1,4 +1,4 @@
-# nim_nighty_space
+# nim nighty build for newcomers #like me :) .
 ## to start nim nighty build within hour
 ```
 git clone https://github.com/kmry/nim_nighty_space
