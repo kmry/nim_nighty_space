@@ -5,3 +5,11 @@ sudo apt update
 sudo apt install emacs25
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 emacs25
+
+### Then, Append a word 'nim' to your sapcemacs config layer : 
+# dotspacemacs-configuration-layers
+#   '(
+#   ....
+#    nim
+#   ....
+#    )
