@@ -1,6 +1,6 @@
 # nim nighty build for newcomers 
- - cf. https://github.com/nim-lang/Nim#compiling
- - It is for a newcomer like me :) .
+ - cf. official instructions  https://github.com/nim-lang/Nim#compiling
+ - This repo is based on official instructions and add some functions for a nim's newcomer like me :) .
  - Nim with 'spacemacs' is a good combination for me.
 
 ## to start nim nighty build within a hour:
