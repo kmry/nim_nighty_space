@@ -2,7 +2,7 @@
  - It is for a newcomer like me :) .
  - Nim with 'spacemacs' is a good combination for me.
 
-## to start nim nighty build within avhour:
+## to start nim nighty build within a hour:
 ```
 git clone https://github.com/kmry/nim_nighty_space
 cd nim_nighty_space
