@@ -19,4 +19,4 @@ ex=./Nim/examples
 cpProj: #it depends on ${ex} folder.
 	mkdir -p $b$p
 	cd $b$p;nimble init $p
-	cp ${ex}/$p.nim $b$p/$p.nim
+	cp ${ex}/$p.nim $b$p/src/$p.nim
